@@ -1,2 +1,3 @@
 This is sample text file for User B.
 After pushing from userB.
+User A random stuff.
