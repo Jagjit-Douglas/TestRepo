@@ -1,1 +1,2 @@
 This is sample text file for User B.
+After pushing from userB.
